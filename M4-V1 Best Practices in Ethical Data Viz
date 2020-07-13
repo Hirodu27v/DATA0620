@@ -1,0 +1,58 @@
+Module 4 Video 1: Best Practices in Ethical Data Viz
+[00:00:00] Hi, welcome to Module 4 of our course on ethical and equitable dataviz and today
+we're going to talk about communication and distribution and the visualization of data in your
+data story.
+[00:00:14] So one of the things I really, really like about communication and data visualization is
+thinking about the night sky because the night sky is a data set that lots of us see and tell stories
+about and think about. And the way that we tell stories or think about how to interpret the data set
+in front of us depends a lot on where we stand on the Earth and what our culture is. This same set
+of stars can be interpreted in many, many different ways. And there are a number of different
+stories around the world about the same set of stars with very different interpretations. And of
+course, when it comes to something like a constellation or the stories we tell about the stars,
+there's no one universally correct interpretation. We're all looking at the same stars and we're all
+making meaning for ourselves in our own way.
+[00:01:17] The Big Dipper is, of course, identified across many Northern Hemisphere traditions.
+But for example, the Alaskan Gwich'in, this is the Big Dipper is just the tail of the whole sky
+constellation called Yahdii, which is the word for the tailed man. There's lots of very interesting
+things written online if you want to go into more depth about the way that different stars are
+interpreted by different people. But for our point of view, the purpose behind this illustration is that
+there's no one way that's the best for all cultures in the world to interpret, communicate or
+visualize a set of data. There are things called best practices for data visualization. But these are
+not culturally universal. Some cognitive science is is likely to be true about kind of how the human
+eye works, but how the human eye communicates with the human brain. It's certainly not
+culturally universal. And one of the issues we have is that most of the best practices, as we read
+about them currently are tested or researched among people who are basically most likely
+university students living in Western Europe and the United States and Canada. So one of the
+things that we as a community are working on is developing some data, best practices based on
+research from other cultures and other populations. So be careful. When you're setting up dataviz
+or any kind of data story communication, thinking about what culture the data came from and
+what culture the reader or listener or watcher is going to be centered in as well.
+[00:03:13] You need to think about things like the locus of power, the world view, the unit of
+analysis, and what's assumed to be 'normal' because these things are different, depending on
+where you're standing in the earth.
+[00:03:26] Locus of power refers to things like do you think individuals are powerful or do you
+think groups are powerful? World view has to do with all kinds of things, like is time linear? If
+you're talking about tomorrow, do you point forwards or backwards? That's not universal. Unit of
+analysis, different levels of analysis are meaningful to different cultures. We talked about that a
+little bit in the analysis module, but it's important to think about in the communication and viz
+module as well. And then what's assumed to be normal. If you if there's going to be if you're
+comparing two things in your databases or one thing is going to be considered the baseline or the
+norm. Choose that very, very carefully, because that's one of the strongest ways to embed your
+world view or the status quo into your data communication.
+[00:04:19] Here's an example that comes out of Mexico where the health care services were
+promoting some specialized services that were designed to meet the needs of indigenous
+populations in Mexico. And this is the advertisement that they did. And the visuals that they used
+were not in alignment at all with the cultural preferences of the indigenous population that they
+were trying to communicate with. The indigenous people saw this as a very sad picture because
+the boy is alone rather than surrounded by his family and his community. Whereas the people
+making it, the advertising company making this visual thought that the boy seems quite happy.
+That's just one small example.
+[00:05:08] Another one is the difference between the accessibility symbols. What used to be the
+accessibility symbol was a wheelchair with very stiff person and right angles and not showing
+movement. And a new accessibility icon was developed several decades ago by people who
+actually use wheelchairs and need the accessibility icon and didn't like the way that they were 
+being portrayed in the traditional kind of old fashioned symbol. And the new symbol is much more
+in alignment with the kind of traditionally abled human symbols that we see on roadsides and
+bathrooms where they're not shown as right angles. The human doesn't have right angles. The
+human is has rounded features and is actually in motion, moving forwards in motion. Small
+changes to an icon can make a very big difference for. 
