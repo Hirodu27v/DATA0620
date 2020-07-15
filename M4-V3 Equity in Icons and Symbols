@@ -1,0 +1,68 @@
+Module 4 Video 3: Equity in Icons and Symbols
+[00:00:00] Hi. In this video, we are going to talk a little bit more about the importance of
+symbolism and how easy it is to embed, unconsciously, ethically problematic things into any data
+visualization. For example, I'm showing here is a calendar that shows the events that are
+happening on a seasonal basis and you can see that this calendar is non-linear. This calendar is
+very, very easy to read if you are raised in the culture that uses this calendar, but this calendar is
+almost impossible to read if you are raised outside this culture.
+[00:00:47] That same thing is true for this data visualization. This is a map that is meaningful to
+people who are very familiar with the culture of this type of map and almost unreadable to people
+who are not raised in this culture and how we solve this problem, how we make symbol's
+meaningful to people who were not raised or educated within the culture that gave rise to the
+symbol is something called a legend. Almost every map that you see has a legend, and that
+legend will tell you how to read the map. And the same needs to be true with any of the data
+visuals that you put into your data stories. It's essential that your legend does more than just tell
+the basics of, you know. This is up. This is down. But actually helps people who were raised or
+educated in a different culture how to read and understand and make sense of your data
+visualization. And the reason for that is it's extremely easy to accidentally embed all kinds of
+worldviews and beliefs into symbols. And we're going to look at one final visual example here of
+an image that is used widely across textbooks. If you Google equity versus equality, you will find it
+over and over and over again on the Internet. And we're going to show you how a seemingly
+innocent data visualization actually is very problematic in terms of the unconscious symbols that
+are embedded into this product.
+[00:02:43] So this is used to illustrate the difference between equity and equality. And equity and
+equality are two different ways of treating people. So in this example, we start off with three
+people of three different heights that are all trying to look over a fence and the person on the far
+right, you can see is too short to see over the fence. And the person on the far left is tall and can
+see over the fence easily. If we treat these people equally, we give each person a box. The
+problem with treating people equally in this way is that the short person on the right still cannot
+see over the fence and the tall person on the left who could always see over the fence can still
+see over the fence. So this is an example of why supporting people in the exact same way,
+regardless of their needs might be equal, but it doesn't necessarily have the result we were
+hoping for.
+[00:03:44] This in the textbook illustration is the result that we are looking for. And this is called
+equity. And so this is how we achieve equity. We give each person the support relative to how
+they need the support. In what way they need to be supported. So the person on the left who can
+already see over the fence doesn't get any boxes. And the person on the right, who is the shortest
+person, gets two boxes, so then that person can see over the fence. This is a very well
+intentioned data visual, but it's extremely problematic.
+[00:04:22] The problems with this are multitude. But the fundamental two problems are that by
+making the people three different sizes to start with. We have embedded the idea that the reason
+that these people need aid or need support is because they are different sizes. It's intrinsic to the
+people. They are born this way. And that is not generally the world view that is meant to be
+portrayed by the people using this dataviz. So we start out our new and improved visual with the
+people all being the same height so that we're not implying that the different need for aid is based
+on the different intrinsic inborn aspects of the people.
+[00:05:11] The second problem with this visual is that the barrier which is represented by the
+fence, is shown to be at the same height for everyone. So in the original visual, the barriers at the
+same height for everyone. And people have different relationships to the universal barrier based
+on an intrinsic value. The height in which they're born. However, if you've lived as a human on
+Earth, you are aware that the barrier is not one universal barrier. That in fact, people are all born
+the same height. But the barriers are quite different for different people. And even if the barrier is
+the same as it is on the far left and the far right, in our new illustration where you start out the
+ground that you're standing on the community and the supports that you find yourself born into or
+born with are not at all the same. So the variations in the ability to see over the fence or overcome 
+the barrier has nothing to do with the height of the person. It has to do with the structural height
+of the barrier and the ground that that person finds themselves standing on.
+[00:06:24] So this is a much more accurate representation. Using symbols of the world as it
+exists. The data viz has been created much more intentionally from an equity lens in this point.
+And this is our final outcome, not people standing on boxes so that they can see over the fence,
+but actually fixing the structural problems.
+[00:06:51] So you can see this is a very simplified example of how deeply embedded even our
+well-intentioned data viz is with unconscious worldviews. And it's essential that you take some
+time to go through every single data viz that you're creating as a data journalist and ask yourself
+whose worldview is embedded in the symbol's that I'm using? Whose world view is embedded in
+the colors that I'm using? Whose worldview is embedded in the perspective that I'm using for this
+data viz. And a world view will always be embedded. I'm not saying try and make it objective,
+because we're back now to where we started. It's not possible to create an objective data viz. But
+it is possible to create an intentional and transparent data viz. 
